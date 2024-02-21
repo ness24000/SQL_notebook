@@ -3,6 +3,8 @@ by Nestor Narbona Chulvi
 
 Directory tree:
 
+```bash
+
 │   readme.txt
 │   sql_notebook.ipynb
 │
@@ -27,6 +29,7 @@ Directory tree:
         artists.csv
         playlists.csv
         tracks.csv
+```
 
 Directory and files explanation: 
 
