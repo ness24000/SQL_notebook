@@ -1,7 +1,7 @@
 ### An Introduction Notebook to Relational Databases and SQLite
 by Nestor Narbona Chulvi
 
-Directory tree:
+Directory tree follows here: 
 
 ```bash
 
